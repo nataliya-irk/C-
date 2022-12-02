@@ -1,0 +1,15 @@
+C:\Users\naste\Desktop\Examples\Example001_HelloyConsole\bin\Debug\net6.0\Example001_HelloyConsole.exe
+C:\Users\naste\Desktop\Examples\Example001_HelloyConsole\bin\Debug\net6.0\Example001_HelloyConsole.deps.json
+C:\Users\naste\Desktop\Examples\Example001_HelloyConsole\bin\Debug\net6.0\Example001_HelloyConsole.runtimeconfig.json
+C:\Users\naste\Desktop\Examples\Example001_HelloyConsole\bin\Debug\net6.0\Example001_HelloyConsole.dll
+C:\Users\naste\Desktop\Examples\Example001_HelloyConsole\bin\Debug\net6.0\Example001_HelloyConsole.pdb
+C:\Users\naste\Desktop\Examples\Example001_HelloyConsole\obj\Debug\net6.0\Example001_HelloyConsole.csproj.AssemblyReference.cache
+C:\Users\naste\Desktop\Examples\Example001_HelloyConsole\obj\Debug\net6.0\Example001_HelloyConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naste\Desktop\Examples\Example001_HelloyConsole\obj\Debug\net6.0\Example001_HelloyConsole.AssemblyInfoInputs.cache
+C:\Users\naste\Desktop\Examples\Example001_HelloyConsole\obj\Debug\net6.0\Example001_HelloyConsole.AssemblyInfo.cs
+C:\Users\naste\Desktop\Examples\Example001_HelloyConsole\obj\Debug\net6.0\Example001_HelloyConsole.csproj.CoreCompileInputs.cache
+C:\Users\naste\Desktop\Examples\Example001_HelloyConsole\obj\Debug\net6.0\Example001_HelloyConsole.dll
+C:\Users\naste\Desktop\Examples\Example001_HelloyConsole\obj\Debug\net6.0\refint\Example001_HelloyConsole.dll
+C:\Users\naste\Desktop\Examples\Example001_HelloyConsole\obj\Debug\net6.0\Example001_HelloyConsole.pdb
+C:\Users\naste\Desktop\Examples\Example001_HelloyConsole\obj\Debug\net6.0\Example001_HelloyConsole.genruntimeconfig.cache
+C:\Users\naste\Desktop\Examples\Example001_HelloyConsole\obj\Debug\net6.0\ref\Example001_HelloyConsole.dll
